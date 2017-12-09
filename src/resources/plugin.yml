@@ -1,0 +1,8 @@
+main: com.github.aasmus.nodeathscreen.NoDeathScreen
+name: NoDeathScreen
+version: 1.0
+author: aasmus
+description: The descriptions's in the title
+permissions:
+  nodeathscreen.use:
+    description: disables player's death screen. Remove to re-enable it.
